@@ -12,6 +12,12 @@ public class Programmetwo {
 					}System.out.println(i+" "+j);
 			}
 		}
-	
-	}}
+		for(int k=1;k<=3;k++) {
+			
+			for(int l=1;l<=3;l++) {
+				if (l==2&&l==2) {
+					break;
+					}System.out.println(k+" "+l);
+			}
+	}}}
 
